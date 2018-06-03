@@ -60,19 +60,19 @@
 Misconfiguration                     	错误的配置
 Server-Side Forge	                    服务端伪造
 Cross-Site Script	                    跨站脚本
-Cross-Site Request Forge	             跨站请求伪造
+Cross-Site Request Forge	            跨站请求伪造
 SQL Injection	                        SQL注入
 Xpath Injection	                      Xpath注入
-LDAP Injection	                       LDAP注入
+LDAP Injection	                      LDAP注入
 XML External Entity Injection	        XML实体注入
 Local/Remote File Inclusion	          文件包含漏洞
 Code Injection                       	代码注入
 Command Injection                    	命令注入
-Information Exposure	                 信息泄露
+Information Exposure	                信息泄露
 Predictable Pseudorandom Generator   	可预测的伪随机数生成器
-Session Fixation	                     SESSION固定
+Session Fixation	                    SESSION固定
 unSerialize	                          反序列化漏洞
-Variables Override	                   变量覆盖漏洞
+Variables Override	                  变量覆盖漏洞
 Weak Function	                        不安全的函数
 
 ```
