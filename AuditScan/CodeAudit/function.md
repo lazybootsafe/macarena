@@ -60,7 +60,7 @@
 Misconfiguration                     	错误的配置
 Server-Side Forge	                服务端伪造
 Cross-Site Script	                跨站脚本
-Cross-Site Request Forge	         跨站请求伪造
+Cross-Site Request Forge	        跨站请求伪造
 SQL Injection	                        SQL注入
 Xpath Injection	                        Xpath注入
 LDAP Injection	                        LDAP注入
